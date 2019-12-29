@@ -137,8 +137,8 @@ de:
   LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: "Orchestermusik"
   LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "Interaktive Musik"
   LABEL_GAME_ENGINE_PASSWORD_SAVE: "Passwortbasiertes Speichern"
-  LABEL_GAME_ENGINE_BASIC_SAVE: "Spart"
-  LABEL_GAME_ENGINE_CLOUD_SAVE: "Cloud spart"
+  LABEL_GAME_ENGINE_BASIC_SAVE: "Normales Speichern"
+  LABEL_GAME_ENGINE_CLOUD_SAVE: "In der Cloud Speichern"
   LABEL_GAME_ENGINE_BASIC_PHYSICS: "Grundlegende Physik"
   LABEL_GAME_ENGINE_ADVANCED_PHYSICS: "Fortgeschrittene Physik"
   LABEL_GAME_ENGINE_REALISTIC_PHYSICS: "Realistische Physik"
@@ -706,7 +706,7 @@ de:
   LABEL_THEME_MUSIC: Musik
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
-  LABEL_TYPE_ACTION_ADVENTURE: Action abenteuer
+  LABEL_TYPE_ACTION_ADVENTURE: Action Abenteuer
   LABEL_TYPE_ACTION: Action
   LABEL_TYPE_BEAT_THEM_ALL: Beat ’em up
   LABEL_TYPE_VERSUS_FIGHTING: Versus-Kampf
@@ -931,7 +931,7 @@ de:
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
     Bei Blue Studio haben zwei Brüder gerade ein neues Spiel veröffentlicht.
     Es wird den Markt verändern und ein neues Genre ist entstanden: Es heißt 'Mystery'
-  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mystery-like wurde erfunden
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mystery wurde erfunden
   LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
     DustStar hat gerade ein neues Spiel veröffentlicht, dass die Spieleindustrie revolutioniert! 
     Das HTA Genre ist entstanden!
@@ -1120,7 +1120,7 @@ de:
   LABEL_LOADING: Wird geladen...
   LABEL_NAME: Name
   LABEL_SALARY: Gehalt
-  LABEL_NO_SCORE: Noch keine Punktzahl hochgeladen!
+  LABEL_NO_SCORE: Noch keine Punktezahl hochgeladen!
   LABEL_CAPACITY_STORY_FEATURE: >
     Ein gutes Spiel ist immer gut, eine gute Story macht es noch besser.
     Was ist mit einer Mischung aus gutem Spiel und guter Story?
@@ -1371,7 +1371,7 @@ de:
   LOADING_SCREEN_TIP_20: >
     Wenn dein Studio ein ungleiches Qualifikationsniveau hat, kann das die Gesamtqualität eines Spiels negativ beeinflussen.
 
-  GAMEENGINE: Spielmaschinen
+  GAMEENGINE: Spiel-Engine
   GAMEEDITION_SUBMIT: Spiel erstellen lassen
   GAMEEDITION_RECEIVE: Publisherangebote erhalten
   WORLDMAP: Weltkarte
@@ -1405,4 +1405,4 @@ de:
   UNLOCK_GAMEGENRE: Spielgenre erforschen
   UNLOCK_HUMANRESOURCE: Personalverwalter
   UNLOCK_GAME_OF_THE_YEAR: Spiel des Jahres
-  UNLOCK_CLOUD_SERVER: Cloud Computing
+  UNLOCK_CLOUD_SERVER: Cloud Server
