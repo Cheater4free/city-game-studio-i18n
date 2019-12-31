@@ -77,7 +77,7 @@ de:
   LABEL_NOT_AVAILABLE: Nicht verfügbar
   LABEL_REQUIRED: Erforderlich
   LABEL_REVIEW_GAMEENGINE_BAD: >
-    Sie hätten mehr aus der Eingine holen müssen
+    Sie hätten mehr aus der Engine holen müssen
   LABEL_REVIEW_GAMEENGINE_GOOD: >
     Sie konnten das Beste aus der Engine herausholen
   LABEL_GAME_ENGINE: Spiel-Engine
@@ -1371,7 +1371,7 @@ de:
   LOADING_SCREEN_TIP_20: >
     Wenn dein Studio ein ungleiches Qualifikationsniveau hat, kann das die Gesamtqualität eines Spiels negativ beeinflussen.
 
-  GAMEENGINE: Spielmaschinen
+  GAMEENGINE: Spielengine
   GAMEEDITION_SUBMIT: Spiel erstellen lassen
   GAMEEDITION_RECEIVE: Publisherangebote erhalten
   WORLDMAP: Weltkarte
